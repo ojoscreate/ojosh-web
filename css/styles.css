@@ -1,0 +1,172 @@
+
+@font-face{
+    src: url("kimberly/kg-strawberry-limeade.ttf");
+    font-family:KGStrawberryLimeade;
+}
+body{
+    text-align: center;
+    margin: 0;
+     
+}
+.family{
+    background-color: rgba(254, 254, 254, 0.9);
+}
+h1{
+    color: #66BFBF;
+    padding: 100px 0 10px;
+    margin: auto;
+    font-size: 50px;
+    font-family:KGStrawberryLimeade;
+    
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 35px;
+    font-family: KGStrawberryLimeade;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+    text-align: inherit;
+
+}
+hr{
+    inline-size: 5%;
+    border: dotted #EAF6F6 8px;
+    border-block-start: none;
+    margin: 100px auto 80px;
+}
+p{
+    
+    text-align: center;
+    margin: auto;
+    line-height: 2;
+}
+/****-------------------------view 1 with background-----------------***/
+.top{
+    background-color: #EAF6F6;
+    margin: 0px;
+    padding: 50px;
+}
+.cloud-1{
+    inline-size: 6.25rem;
+    position: absolute;
+    inset-inline-start: 21rem;
+    inset-block-start: 21.75rem;
+}
+.cloud-2{
+    inline-size: 6.25rem;
+    position: absolute;
+    inset-block-start: 3.125rem;
+    inset-inline-end: 26rem; 
+}
+
+.mount-img{
+    inline-size: 37.5rem;
+    margin: 0 auto 0;
+}
+.pro{
+    text-decoration: underline;
+}
+/***-------------------veiw 2 (End dotted)--------------------------**/
+.new1-img{
+    border-radius:100%;
+    margin: 100px auto 0px;
+}
+
+.middle-p{
+    inline-size: 30rem;
+}
+/***-------------------veiw 3 (End dotted)--------------------------**/
+.skills-img{
+    float: left;
+    inline-size: 10.25rem;
+    border-radius: 100%;
+    margin-inline-end: 50px;
+   
+
+}
+.chalen-img{
+    float: right;
+    inline-size: 10.25rem;
+    border-radius: 100%;
+    margin-inline-start: 50px;
+   
+}
+
+.design{
+    inline-size: 50%;
+    text-align: start;
+    line-height: 2;
+    margin: 100px auto 50px auto;
+    
+}
+.end{
+    
+    margin: 100px auto 100px auto;
+    justify-content: center;
+    
+    
+}
+
+.end-p{
+    text-align: justify;
+   
+
+}
+/***-------------------veiw 4 (End dotted)--------------------------**/
+.last{
+    margin: 100px auto 50px auto;
+}
+.btn {
+    margin: 50px;
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #176da3);
+    background-image: -moz-linear-gradient(top, #11999E, #176da3);
+    background-image: -ms-linear-gradient(top, #11999E, #176da3);
+    background-image: -o-linear-gradient(top, #11999E, #176da3);
+    background-image: linear-gradient(to bottom, #11999E, #176da3);
+    -webkit-border-radius: 23;
+    -moz-border-radius: 23;
+    border-radius: 23px;
+    font-family:KGStrawberryLimeade;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 15px 24px 11px 17px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #075757);
+    background-image: -moz-linear-gradient(top, #66BFBF, #075757);
+    background-image: -ms-linear-gradient(top, #66BFBF, #075757);
+    background-image: -o-linear-gradient(top, #66BFBF, #075757);
+    background-image: linear-gradient(to bottom, #66BFBF, #075757);
+    text-decoration: none;
+  }
+/***-------------------veiw 5 (Footer)------------------------------**/
+.foot{
+    background-color: #66BFBF;
+    padding: 40px;
+    margin: 50px 0 0 0;
+    
+
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 10px;
+    padding: 30px 0 10px;
+    font-family: KGStrawberryLimeade;
+    font-size: larger;
+    font-weight: 300;
+}
+.foot-p{
+    color: #EAF6F6;
+    padding:30px 0  0;
+
+}
+
